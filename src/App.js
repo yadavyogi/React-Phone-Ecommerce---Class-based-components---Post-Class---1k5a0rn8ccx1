@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./styles/App.css";
+import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar";
