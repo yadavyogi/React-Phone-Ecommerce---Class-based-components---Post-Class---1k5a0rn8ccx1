@@ -8,7 +8,7 @@ import Details from "./components/Details";
 import Default from "./components/Default";
 import Cart from "./components/Cart";
 import Modal from "./components/Modal";
-class App extends Component {
+class App extends from Component {
   render() {
     return (
       <React.Fragment>
